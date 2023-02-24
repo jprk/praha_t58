@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-02-24 17:01:20.653224 by gtfs2pt.py v1_14_1+1862-e928f8df8cf
+  options: -n ..\palmovka_cakovice.net.xml <doubleminus>gtfs jrdata_20230222.zip <doubleminus>date 20230225 <doubleminus>modes trolleybus <doubleminus>vtype-output pt_vtypes.xml <doubleminus>warning-output gtfs_warnings.txt <doubleminus>additional-output pa-ca_gtfs_pt_stops_routes.add.xml <doubleminus>route-output pa-ca_gtfs_pt_vehicles.rou.xml <doubleminus>verbose
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="E117:42.85" lane="E117_0" startPos="29.85" endPos="55.85" friendlyPos="true" name="Výstaviště Letňany">
+    </busStop>
+    <busStop id="-E33.155:0.95" lane="-E33.155_0" startPos="0.00" endPos="13.95" friendlyPos="true" name="Dobratická">
+    </busStop>
+    <busStop id="-135738858.97:8.92" lane="-135738858.97_0" startPos="0.00" endPos="21.92" friendlyPos="true" name="Tupolevova">
+    </busStop>
+    <busStop id="-126134871:10.17" lane="-126134871_0" startPos="0.00" endPos="23.17" friendlyPos="true" name="Fryčovická">
+    </busStop>
+    <busStop id="E50.105:48.68" lane="E50.105_0" startPos="35.68" endPos="61.68" friendlyPos="true" name="Trutnovská">
+    </busStop>
+    <busStop id="595866513#0.19:55.17" lane="595866513#0.19_0" startPos="42.17" endPos="68.17" friendlyPos="true" name="Obchodní centrum Čakovice">
+    </busStop>
+    <busStop id="593758916#0.46:42.32" lane="593758916#0.46_0" startPos="29.32" endPos="55.32" friendlyPos="true" name="Za Avií">
+    </busStop>
+    <busStop id="598209323.10:38.64" lane="598209323.10_0" startPos="25.64" endPos="51.64" friendlyPos="true" name="Cukrovar Čakovice">
+    </busStop>
+    <busStop id="-160567763#6:17.72" lane="-160567763#6_0" startPos="4.72" endPos="30.72" friendlyPos="true" name="Nádraží Čakovice">
+    </busStop>
+    <busStop id="-160567763#3:108.36" lane="-160567763#3_0" startPos="95.36" endPos="121.36" friendlyPos="true" name="Koupaliště Čakovice">
+    </busStop>
+    <busStop id="-4558728#1:5.72" lane="-4558728#1_0" startPos="0.00" endPos="18.72" friendlyPos="true" name="Oderská">
+    </busStop>
+    <busStop id="-23230098#1:31.56" lane="-23230098#1_0" startPos="18.56" endPos="44.56" friendlyPos="true" name="Čakovice">
+    </busStop>
+    <busStop id="105620858#0:97.26" lane="105620858#0_0" startPos="84.26" endPos="110.26" friendlyPos="true" name="Čakovice">
+    </busStop>
+    <busStop id="105620858#1:17.39" lane="105620858#1_0" startPos="4.39" endPos="30.39" friendlyPos="true" name="Čakovice">
+    </busStop>
+    <busStop id="4558728#20:16.07" lane="4558728#20_0" startPos="3.07" endPos="29.07" friendlyPos="true" name="Oderská">
+    </busStop>
+    <busStop id="160567763#3:28.68" lane="160567763#3_0" startPos="15.68" endPos="41.68" friendlyPos="true" name="Koupaliště Čakovice">
+    </busStop>
+    <busStop id="764152778#0:70.45" lane="764152778#0_0" startPos="57.45" endPos="83.45" friendlyPos="true" name="Nádraží Čakovice">
+    </busStop>
+    <busStop id="-598209323.55:32.30" lane="-598209323.55_0" startPos="19.30" endPos="45.30" friendlyPos="true" name="Cukrovar Čakovice">
+    </busStop>
+    <busStop id="-593758916#0:16.90" lane="-593758916#0_0" startPos="3.90" endPos="29.90" friendlyPos="true" name="Za Avií">
+    </busStop>
+    <busStop id="-595866513#1:39.09" lane="-595866513#1_0" startPos="26.09" endPos="52.09" friendlyPos="true" name="Obchodní centrum Čakovice">
+    </busStop>
+    <busStop id="E51.291.52:19.16" lane="E51.291.52_0" startPos="6.16" endPos="32.16" friendlyPos="true" name="Trutnovská">
+    </busStop>
+    <busStop id="531488940:20.15" lane="531488940_0" startPos="7.15" endPos="33.15" friendlyPos="true" name="Fryčovická">
+    </busStop>
+    <busStop id="135738855.61.37:13.64" lane="135738855.61.37_0" startPos="0.64" endPos="26.64" friendlyPos="true" name="Tupolevova">
+    </busStop>
+    <busStop id="E33:18.89" lane="E33_0" startPos="5.89" endPos="31.89" friendlyPos="true" name="Dobratická">
+    </busStop>
+    <busStop id="19848860#1.12:23.90" lane="19848860#1.12_0" startPos="10.90" endPos="36.90" friendlyPos="true" name="Výstaviště Letňany">
+    </busStop>
+    <busStop id="602745208:81.04" lane="602745208_0" startPos="68.04" endPos="94.04" friendlyPos="true" name="Letňany">
+    </busStop>
+    <route id="None" edges="16941319.29">
+    </route>
+    <route id="42946" edges="E117 922940806#0.35 133140157 -E33 -E33.109 -E33.155 -135738851 -135738860 -135738850 -135738850.134 -135738858 -135738858.59 -135738858.97 -135738858.132 -135738858.161 -78898222#1 -78898222#0 -78898222#0.127 -531488940 -531488940.57 -126134871 -126134871.151 -194101579 E54 E53 E490 -593546513 -531490211#1 -531490211#1.112 E50 E50.105 E50.105.80 E50.199 E50.268 E50.284 E59 217850419 945418667 595866513#0 595866513#0.19 595866513#0.84 595866513#1 4558722#0 4558722#1 4558722#2 4558722#3 593758916#0 593758916#0.46 593758916#0.93 593758916#2 593758916#3 16497962#1 16497962#4 598209323 598209323.10 598209323.72 23231264#1 764152779 -160567763#6 -160567763#60 -160567763#5 -160567763#3 -160567763#0 -160567764#1 -160567764#0 -4558728#3 -4558728#2 -4558728#2.78 -4558728#1 -4558728#0 -8308676#6 -8308676#5 -8308676#4 -8308676#3 -8308676#2 -8308676#1 -8308676#0 -23230098#1 -23230098#0 -345276762 -345276764 105620858#0 105620858#1">
+        <stop busStop="E117:42.85" duration="10" until="0"/>
+        <stop busStop="-E33.155:0.95" duration="10" until="60"/>
+        <stop busStop="-135738858.97:8.92" duration="10" until="120"/>
+        <stop busStop="-126134871:10.17" duration="10" until="240"/>
+        <stop busStop="E50.105:48.68" duration="10" until="360"/>
+        <stop busStop="595866513#0.19:55.17" duration="10" until="420"/>
+        <stop busStop="593758916#0.46:42.32" duration="10" until="480"/>
+        <stop busStop="598209323.10:38.64" duration="10" until="540"/>
+        <stop busStop="-160567763#6:17.72" duration="10" until="600"/>
+        <stop busStop="-160567763#3:108.36" duration="10" until="660"/>
+        <stop busStop="-4558728#1:5.72" duration="10" until="720"/>
+        <stop busStop="-23230098#1:31.56" duration="10" until="780"/>
+        <stop busStop="105620858#0:97.26" duration="10" until="960"/>
+    </route>
+    <route id="42947" edges="105620858#1 8308676#0 8308676#1 8308676#2 15804335#1 15804380#1 15804380#2 15804380#3 15804380#4 15804380#5 4558728#2 4558728#20 4558728#3 160567764#0 160567764#1 160567763#0 160567763#3 160567763#5 160567763#6 160567763#6.39 764152778#0 764152778#1 -598209323 -598209323.55 -598209323.108 -16497962#4 -16497962#1 -593758916#3 -593758916#2 -593758916#0 -593758916#0.34 -4558722#3 -4558722#2 -4558722#1 -4558722#0 -4558722#0.29 -595866513#1 -595866513#1.57 -595866513#0 -945418667 217850415 217850417#0 217850417#1 4558721 E60 E51 E51.210 E51.221 E51.291 E51.291.52 E51.291.109 E51.471 E51.537 E51.671 -E49 E56 E55 1941015790 126134871 1261348710 1261348710.151 531488940 531488940.39 531488936 78898222#1 135738855 135738855.61 135738855.61.37 135738855.61.86 586426037 586426037.144 135738860 135738851 E33 922940812 922940812.47 19848860#1 19848860#1.12 19848860#1.90 19848860#3 887612167 887612166 131765099#0 129089902#1 129089902#1.13 602745208">
+        <stop busStop="105620858#1:17.39" duration="10" until="0"/>
+        <stop busStop="4558728#20:16.07" duration="10" until="120"/>
+        <stop busStop="160567763#3:28.68" duration="10" until="180"/>
+        <stop busStop="764152778#0:70.45" duration="10" until="180"/>
+        <stop busStop="-598209323.55:32.30" duration="10" until="240"/>
+        <stop busStop="-593758916#0:16.90" duration="10" until="300"/>
+        <stop busStop="-595866513#1:39.09" duration="10" until="420"/>
+        <stop busStop="E51.291.52:19.16" duration="10" until="480"/>
+        <stop busStop="531488940:20.15" duration="10" until="540"/>
+        <stop busStop="135738855.61.37:13.64" duration="10" until="660"/>
+        <stop busStop="E33:18.89" duration="10" until="720"/>
+        <stop busStop="19848860#1.12:23.90" duration="10" until="780"/>
+        <stop busStop="602745208:81.04" duration="10" until="2340"/>
+    </route>
+</additional>

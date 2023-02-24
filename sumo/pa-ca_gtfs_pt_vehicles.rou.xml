@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-02-24 17:01:21.854678 by gtfs2pt.py v1_14_1+1862-e928f8df8cf
+<configuration>
+    <additional-output value="pa-ca_gtfs_pt_stops_routes.add.xml"/>
+    <date value="20230225"/>
+    <gtfs value="jrdata_20230222.zip"/>
+    <modes value="trolleybus"/>
+    <network value="..\palmovka_cakovice.net.xml"/>
+    <route-output value="pa-ca_gtfs_pt_vehicles.rou.xml"/>
+    <verbose value="True"/>
+    <vtype-output value="pt_vtypes.xml"/>
+    <warning-output value="gtfs_warnings.txt"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="42946.0" route="42946" type="trolleybus" depart="32810" line="58_42946"/>
+    <vehicle id="42947.0" route="42947" type="trolleybus" depart="33830" line="58_42947"/>
+    <vehicle id="42948.0" route="42946" type="trolleybus" depart="36410" line="58_42946"/>
+    <vehicle id="42949.0" route="42947" type="trolleybus" depart="37430" line="58_42947"/>
+    <vehicle id="42950.0" route="42946" type="trolleybus" depart="40010" line="58_42946"/>
+    <vehicle id="42951.0" route="42947" type="trolleybus" depart="41030" line="58_42947"/>
+    <vehicle id="42952.0" route="42946" type="trolleybus" depart="43610" line="58_42946"/>
+    <vehicle id="42953.0" route="42947" type="trolleybus" depart="44630" line="58_42947"/>
+    <vehicle id="42954.0" route="42946" type="trolleybus" depart="47210" line="58_42946"/>
+    <vehicle id="42955.0" route="42947" type="trolleybus" depart="48230" line="58_42947"/>
+    <vehicle id="42956.0" route="42946" type="trolleybus" depart="50810" line="58_42946"/>
+    <vehicle id="42957.0" route="42947" type="trolleybus" depart="51830" line="58_42947"/>
+    <vehicle id="42958.0" route="42946" type="trolleybus" depart="54410" line="58_42946"/>
+    <vehicle id="42959.0" route="42947" type="trolleybus" depart="55430" line="58_42947"/>
+    <vehicle id="42960.0" route="42946" type="trolleybus" depart="58010" line="58_42946"/>
+    <vehicle id="42961.0" route="42947" type="trolleybus" depart="59030" line="58_42947"/>
+    <vehicle id="42962.0" route="42946" type="trolleybus" depart="61610" line="58_42946"/>
+    <vehicle id="42963.0" route="42947" type="trolleybus" depart="62630" line="58_42947"/>
+</routes>
