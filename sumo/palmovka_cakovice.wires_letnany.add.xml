@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-12-09 10:47:03 by Eclipse SUMO netedit Version v1_14_1+1394-3c051fc02c9
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Wires -->
+    <tractionSubstation id="Letnany_0" pos="5445.18,4472.90" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Letnany_1" pos="5445.18,4472.90" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Letnany_2a" pos="5445.18,4472.90" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Letnany_2b" pos="5445.18,4472.90" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Letnany_3" pos="5445.18,4472.90" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Letnany_4" pos="5445.18,4472.90" voltage="600.00" currentLimit="400.00"/>
+    <overheadWire id="owlet_1" substationId="Letnany_0" lanes="E124_0"/>
+    <overheadWire id="owlet_2" substationId="Letnany_1" lanes="135738851_1 E33_0 922940812_0 922940812.47_0 19848860#1_0 19848860#1.12_1 19848860#1.90_0 19848860#3_0 887612167_1 887612166_0 131765099#0_0 129089902#1_0 129089902#1.13_0 602745208_0 143575782.17_0 602745210_0 19792627#0_0 19792627#1_0 19792627#2_0 19792627#3_0 611684748_0 19792606_0 217850412_0 E21_0 -E17_1 16941319.8_0 16941319.29_1 16941319.95_0 129089904#0_0 129089904#1_0 922940807_0 E24_0 E24.8_0 922940806#0_0 922940806#0.35_0 133140157_0 -E33_1 -E33.109_1 -E33.155_1 -135738851_1 -135738860_1"/>
+    <overheadWire id="owlet_3" substationId="Letnany_2a" lanes="1261348710.151_1 531488940_1 531488940.39_1 531488936_1 78898222#1_1 135738855_1 135738855.61_1 135738855.61.37_1 135738855.61.86_1 586426037_1 586426037.144_1 135738860_1"/>
+    <overheadWire id="owlet_4" substationId="Letnany_2b" lanes="-135738850_1 -135738850.134_1 -135738858_1 -135738858.59_1 -135738858.97_1 -135738858.132_1 -135738858.161_1 -78898222#1_1 -78898222#0_1 -78898222#0.127_1 -531488940_1 -531488940.57_0 -126134871_0"/>
+    <overheadWire id="owlet_5" substationId="Letnany_3" lanes="-126134871.151_0 -194101579_0 E54_0 E53_0 E490_0 -593546513_1 -531490211#1_1 -531490211#1.112_1 E50_0 E50.105_1 E50.105.80_0 E50.199_0 E50.268_0 E50.284_0 E59_0 217850419_0 217850415_0 217850417#0_0 217850417#1_0 4558721_0 E60_0 E51_1 E51.210_1 E51.221_0 E51.291_0 E51.291.52_1 E51.291.109_0 E51.471_0 E51.537_0 E51.671_0 -E49_0 E56_0 E55_0 1941015790_1 126134871_1 1261348710_1"/>
+    <overheadWire id="owlet_6" substationId="Letnany_4" lanes="-4558722#0.29_1 -595866513#1_1 -595866513#1.57_0 -595866513#0_0 -945418667_0"/>
+</additional>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-12-03 00:11:45 by Eclipse SUMO netedit Version v1_14_1+1394-3c051fc02c9
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Wires -->
+    <tractionSubstation id="Palmovka_0a" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_0b" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_1" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_2" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_3" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_4" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_5" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_6" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_7" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <tractionSubstation id="Palmovka_8" pos="2841.96,2365.57" voltage="600.00" currentLimit="400.00"/>
+    <overheadWire id="owpal_0" substationId="Palmovka_0a" voltageSource="-879373543_1 -31728010#1_0" lanes="757443948#0_1 757443948#0.49_1 -879373544#1_1 -879373544#1.20_1 E108_1 E108.13_1 -879373550_1 -879373543_1 -278474626#1_0 -278474626#0_0 -532082994_0 -E105_0 -E105.56_0 -E104_0 -E104.58_1 -532082996_0 -1005511828_0 -1005511828.21_0 -31728010#1_0 -31728010#0_0 -E101_0 12353015#2_0 623095587#0_0 623095590#1_0 623095596_0 623095602_0"/>
+    <overheadWire id="owpal_1" substationId="Palmovka_0b" voltageSource="879373543_0 31728010#1_0" lanes="623095585_0 623095592#0_0 623095588#1_0 623095586_0 E101_0 31728010#0_0 31728010#1_0 31728010#3_0 532082996_0 E104_1 E105_0 E1050_0 532082994_0 278474626#0_0 278474626#1_0 879373543_0 879373550_0 -E108_0 879373544#1_0 757443947_0 757443940_2 757443941#0_1 4261229#1_1 4261229#1.11_0"/>
+    <overheadWire id="owpal_2" substationId="Palmovka_1" voltageSource="39507073_0" lanes="85354321#0_0 22897456_0 479544432_0 23018440_0 39507073_0 -1085270992_0 -12215203#1_0"/>
+    <overheadWire id="owpal_3" substationId="Palmovka_2" voltageSource="-407662687#1_0 -407662687#1.221_0" lanes="-E110_0 -5097704#1_0 -407662687#1_0 -407662687#1.90_0 -407662687#1.119_0 -407662687#1.149_0 -407662687#1.161_0 -407662687#1.191_0 -407662687#1.221_0 -407662687#10_0 -1141911310_0 -819110609#3_0"/>
+    <overheadWire id="owpal_4" substationId="Palmovka_3" voltageSource="407708584#1.8_0 -E134_0" lanes="-819110609#2_1 -819110609#1_0 -819110609#0_0 E130_0 -145397815#2_0 -E134_0 E136_0 E137_1 E137.19_0 545025877_0 407708584#1.8_0"/>
+    <overheadWire id="owpal_5" substationId="Palmovka_4" voltageSource="E128_0" lanes="E128_0 E133_0"/>
+    <overheadWire id="owpal_6" substationId="Palmovka_5" voltageSource="E135_0" lanes="E135_0 E138_0"/>
+    <overheadWire id="owpal_7" substationId="Palmovka_6" voltageSource="E141_0" lanes="E141_0"/>
+    <overheadWire id="owpal_8" substationId="Palmovka_7" voltageSource="39655986#3.57_1" lanes="39655986#3.57_1"/>
+    <overheadWire id="owpal_9" substationId="Palmovka_8" voltageSource="4820079#1_1" lanes="4820079#1_1 4820079#2_0 345276756#0_0 345276756#1_0"/>
+</additional>

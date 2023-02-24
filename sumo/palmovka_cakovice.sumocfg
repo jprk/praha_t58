@@ -8,7 +8,7 @@
     <input>
         <net-file value="palmovka_cakovice.net.xml"/>
         <route-files value="palmovka_cakovice.passenger.rou.xml,palmovka_cakovice.truck.trips.xml,palmovka_cakovice.bicycle.trips.xml,palmovka_cakovice.pedestrian.rou.xml"/>
-        <additional-files value="palmovka_cakovice.poly.xml"/>
+        <additional-files value="palmovka_cakovice.poly.xml,palmovka_cakovice.wires_cakovice.add.xml,palmovka_cakovice.wires_letnany.add.xml,palmovka_cakovice.wires_palmovka.add.xml"/>
     </input>
 
     <processing>

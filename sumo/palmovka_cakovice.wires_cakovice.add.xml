@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-11-28 21:59:37 by Eclipse SUMO netedit Version v1_14_1+1394-3c051fc02c9
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Wires -->
+    <tractionSubstation id="Cakovice" pos="6733.61,6701.04" voltage="600.00" currentLimit="400.00"/>
+    <overheadWire id="owcak_0" substationId="Cakovice" voltageSource="105620858#0_0" lanes="105620858#0_0 105620858#1_0" startPos="12.68" endPos="6.59"/>
+</additional>
