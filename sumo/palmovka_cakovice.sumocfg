@@ -8,8 +8,14 @@
     <input>
         <net-file value="palmovka_cakovice.net.xml"/>
         <route-files value="palmovka_cakovice.passenger.rou.xml,palmovka_cakovice.truck.trips.xml,palmovka_cakovice.bicycle.trips.xml,palmovka_cakovice.pedestrian.rou.xml"/>
-        <additional-files value="palmovka_cakovice.poly.xml,palmovka_cakovice.wires_cakovice.add.xml,palmovka_cakovice.wires_letnany.add.xml,palmovka_cakovice.wires_palmovka.add.xml"/>
+        <additional-files value="pa-ca_trolleybus_vtypes.xml,palmovka_cakovice.poly.xml,palmovka_cakovice.wires_cakovice.add.xml,palmovka_cakovice.wires_letnany.add.xml,palmovka_cakovice.wires_palmovka.add.xml,pa-ca_gtfs_pt_stops_routes.add.xml,pa-ca_gtfs_pt_vehicles.rou.xml"/>
     </input>
+	
+	<time>
+        <begin value="32600"/>
+        <end value="64800"/>
+    </time>
+
 
     <processing>
         <ignore-route-errors value="true"/>
