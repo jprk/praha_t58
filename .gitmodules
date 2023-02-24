@@ -1,0 +1,3 @@
+[submodule "sumo/gtfs"]
+	path = sumo/gtfs
+	url = https://github.com/jprk/sumo_gtfs_import
